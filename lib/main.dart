@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import 'ElementListControl.dart';
-import 'addbar.dart';
-import 'resultbar.dart';
-import 'ElementListView.dart';
+import './ElementListControl.dart';
+import './AddBar.dart';
+import './ResultBar.dart';
+import './ElementListView.dart';
 
 void main() {
   runApp(MyApp());
