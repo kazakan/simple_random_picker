@@ -1,11 +1,9 @@
-import 'dart:html';
-
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:random_picker/ElementListControl.dart';
-import 'package:random_picker/addbar.dart';
-import 'package:random_picker/resultbar.dart';
 
+import 'ElementListControl.dart';
+import 'addbar.dart';
+import 'resultbar.dart';
 import 'ElementListView.dart';
 
 void main() {

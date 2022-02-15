@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:random_picker/ElementListControl.dart';
+
+import 'ElementListControl.dart';
 
 class AddBar extends StatefulWidget {
   const AddBar({Key? key}) : super(key: key);
